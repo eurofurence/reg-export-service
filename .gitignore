@@ -1,0 +1,6 @@
+.idea/**
+*.exe
+main
+reg-export-service
+**/*.swp
+config.yaml
